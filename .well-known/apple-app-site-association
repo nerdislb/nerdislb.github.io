@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "AVCTNYPB9K.dev.nerdibeard.SchichtPilot"
+        ],
+        "components": [
+          {
+            "/": "/nbsystems.dev/schichtpilot/invite/",
+            "comment": "SchichtPilot group invitation only; no Tesla callback or other project routes."
+          }
+        ]
+      }
+    ]
+  }
+}
